@@ -1,44 +1,46 @@
 # Hello!
 Here I upload all of my projects, whether small or large.
-If you want to see my projects, feel free to visit my portfolio: michalgzella.pl. Below, you can preview each project.
+If you want to see my projects, feel free to visit my portfolio: [my portfolio](https://michalgzella.pl/)
+
+Below, you can preview each project.
 
 
-##Billsplitter
+## Billsplitter
 ![picture of billsplitter](projects_preview/billsplitter.png)
 
-##Degree Converter
+## Degree Converter
 ![picture of converter](projects_preview/converte.png)
 
-##Countdown Timer
+## Countdown Timer
 ![picture of countdown](projects_preview/countdown.png)
 
-##Drink Searcher
+## Drink Searcher
 ![picture of drinksearcher](projects_preview/drinksearcher.png)
 
-##Form Validator
+## Form Validator
 ![picture of formvalid](projects_preview/formvalid.png)
 
-##Good Morning
+## Good Morning
 ![picture of goodmorning](projects_preview/goodmorning.png)
 
-##Magic8Ball
+## Magic8Ball
 ![picture of magic8ball](projects_preview/magic8ball.png)
 
-##My Notes
+## My Notes
 ![picture of mynotes](projects_preview/mynotes.png)
 
-##Stopwatch
+## Stopwatch
 ![picture of stopwatch](projects_preview/stopwatch.png)
 
-##Text Editor
+## Text Editor
 ![picture of texteditor](projects_preview/texteditor.png)
 
-##Todolist
+## Todolist
 ![picture of todolist](projects_preview/todolist.png)
 
-##Finance Manager
+## Finance Manager
 ![picture of wallet](projects_preview/wallet.png)
 
-##Weather App
+## Weather App
 ![picture of weatherapp](projects_preview/weatherapp.png)
 
