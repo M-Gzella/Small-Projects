@@ -1,6 +1,6 @@
 # Hello!
 Here I upload all of my projects, whether small or large.
-If you want to see my projects, feel free to visit my portfolio: [my portfolio](https://michalgzella.pl/)
+If you want to see my projects, feel free to visit [my portfolio](https://michalgzella.pl/)
 
 Below, you can preview each project.
 
