@@ -9,7 +9,7 @@ Below, you can preview each project.
 ![picture of billsplitter](projects_preview/billsplitter.png)
 
 ## Degree Converter
-![picture of converter](projects_preview/converte.png)
+![picture of converter](projects_preview/converter.png)
 
 ## Countdown Timer
 ![picture of countdown](projects_preview/countdown.png)
